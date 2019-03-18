@@ -1,6 +1,0 @@
-c:\users\dariusz.krukowski\documents\visual studio 2015\Projects\JOP-PodcastDownloader\JOP-PodcastDownloader\bin\Debug\JOP-PodcastDownloader.exe.config
-c:\users\dariusz.krukowski\documents\visual studio 2015\Projects\JOP-PodcastDownloader\JOP-PodcastDownloader\obj\Debug\JOP-PodcastDownloader.csprojResolveAssemblyReference.cache
-c:\users\dariusz.krukowski\documents\visual studio 2015\Projects\JOP-PodcastDownloader\JOP-PodcastDownloader\bin\Debug\JOP-PodcastDownloader.exe
-c:\users\dariusz.krukowski\documents\visual studio 2015\Projects\JOP-PodcastDownloader\JOP-PodcastDownloader\bin\Debug\JOP-PodcastDownloader.pdb
-c:\users\dariusz.krukowski\documents\visual studio 2015\Projects\JOP-PodcastDownloader\JOP-PodcastDownloader\obj\Debug\JOP-PodcastDownloader.exe
-c:\users\dariusz.krukowski\documents\visual studio 2015\Projects\JOP-PodcastDownloader\JOP-PodcastDownloader\obj\Debug\JOP-PodcastDownloader.pdb
